@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /tmp
-npm start
+pm2 start npm -- start
